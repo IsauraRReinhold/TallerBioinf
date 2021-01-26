@@ -132,7 +132,7 @@ Descarga de Archivos:
 
 Anotación
 * [What database use to cotton genome annotation?](https://github.com/Melcatus/genomic_cotton/issues/9)(Melania)
-
+* [Gene annotation using edgeR and Kegga function](https://github.com/IsauraRReinhold/Disocactus_transcriptome/issues/23)(Isaura)
 Enrichment Analysis
 * [Modify stadistic parameters to implement GSEA Analysis on DESEq results (Laura)](https://github.com/LauraMCE/lncRNA_BC/issues/15)
 
